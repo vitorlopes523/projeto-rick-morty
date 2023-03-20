@@ -6,14 +6,16 @@
   --shadow-image: #7C7C8A;
   --color-name: #FBA94C;
   --text-color: #E1E1E6;
+  --button-color: #c2c2c5;
 }
 
 .light-theme {
-  --bg-color: #121214;
-  --bg-color-card: #29292E;
-  --border-card: #015F43;
-  --secundary-color: #00875F;
+  --bg-color: #c2c2c5;
+  --bg-color-card: #dcdce0;
+  --border-card: #FBA94C;
+  --secundary-color: #ec932c;
   --shadow-image: #7C7C8A;
-  --color-name: #FBA94C;
-  --text-color: #E1E1E6;
+  --color-name: #12aa7c;
+  --text-color: #000000;
+  --button-color: #121214;
 }

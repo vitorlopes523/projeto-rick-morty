@@ -1,3 +1,19 @@
+const buttonTheme = document.querySelector('.switch-theme')
+
+buttonTheme.addEventListener('click', () => {
+  const body = document.querySelector('body')
+  
+  switchTheme(body)
+})
+
+function switchTheme(body) {
+  if (body.classList.value !== 'light-theme') {
+    body.classList.add('light-theme')
+  } else {
+    body.classList.remove('light-theme')
+  }
+}
+
 const listCards = document.querySelector('.list-card')
 
 async function fetchApiData() {
@@ -5,6 +21,7 @@ async function fetchApiData() {
 
   renderDataApi(data)
 }
+
 fetchApiData()
 
 function renderDataApi(data) {
