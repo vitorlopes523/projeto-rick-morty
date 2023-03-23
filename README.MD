@@ -1,7 +1,7 @@
 # PROJETO RICK AND MORTY 💻
 
 Projeto desenvolvido para aprimorar habilidades no consumo de API's 👌.
-Minha  principal motivação no desenvolvimento da aplicação foi colocar em prática meus conhecimento na área web front-end e por eu ser fã dessa série incrível❤️❤️🚀.
+Minha  principal motivação no desenvolvimento da aplicação foi colocar em prática meus conhecimento na área web front-end e por eu ser fã dessa série animada incrível❤️❤️🚀.
 
 ### Imagem do Projeto 👌
 
