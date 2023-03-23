@@ -26,7 +26,7 @@ Minha  principal motivação no desenvolvimento da aplicação foi colocar em pr
 ### Desenvolvimento contínuo
 
 - Aprimorar conhecimentos em HTML e sua semântica.
-- Aprimorar acerca das propriedades CSS, principalmente flexbox e grid.
+- Aprimorar conhecimentos acerca das propriedades CSS, principalmente flexbox e grid.
 - Aprimorar conhecimentos em JavaScript.
 - Aprender e aperfeiçoar o framework React.
 - Desenvolver técnicas que melhore meu status como profissional.
